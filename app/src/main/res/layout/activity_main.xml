@@ -36,4 +36,22 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Nhận dạng giọng nói với Google C2" />
+
+    <Button
+        android:id="@+id/btnHan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hànnnn" />
+
+    <Button
+        android:id="@+id/btnNhi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nhi" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ToNhi" />
 </LinearLayout>

@@ -19,6 +19,7 @@ import donguyennhathan.com.hocnhandiengiongnoi.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
+    // Hello world
     ActivityMainBinding binding;
     HashMap<String, String> dictionary = new HashMap<>();
     @Override
